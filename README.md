@@ -1,2 +1,2 @@
-# anonalib-screw
-anomaly detection Test 1
+# anomalib-screw
+anomaly detection test 1
